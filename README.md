@@ -21,7 +21,12 @@
 2. 02_【工作流】搭建n8n入门第一个工作流：微信公众号文章自动采集和AI摘要生成 常用技巧(标签、节点设置、表达式等)、RSS节点、Code节点、AIAgent节点、Loop节点等设置 解决本地文件读写难题          
 - 资料在项目内 workflows 文件夹中的 01_*** 文件夹，下载即可                                                  
 - YouTube频道对应视频: https://youtu.be/9VInZHVK7Ww                                
-- B站频道对应视频: https://www.bilibili.com/video/BV12F1VBfER8/                          
+- B站频道对应视频: https://www.bilibili.com/video/BV12F1VBfER8/
+
+3. 03_【工作流】n8n配置飞书保姆级配置指南：HTTP Request节点 社区飞书节点 云空间 多维表格 群组即时消息 支持文本、图片、富文本、卡片、音视频、文件等                   
+- 资料在项目内 workflows 文件夹中的 02_*** 文件夹，下载即可                                                                  
+- YouTube频道对应视频: https://youtu.be/zhSKnqJa9to                                                          
+- B站频道对应视频: https://www.bilibili.com/video/BV12F1VBfER8/                                 
 
 ## 其他推荐
 
