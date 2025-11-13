@@ -28,10 +28,10 @@
 - YouTube频道对应视频: https://youtu.be/zhSKnqJa9to                                                          
 - B站频道对应视频: https://www.bilibili.com/video/BV1aD2TBsEkZ/                                              
 
-4. 04_【工作流】n8n配置微信公众号保姆级配置指南：HTTP Request节点 社区公众号节点 Agent节点 豆包文生图，公众号标题、正文、封面图自动生成草稿上传
+4. 04_【工作流】n8n配置微信公众号保姆级配置指南：HTTP Request节点 社区公众号节点 Agent节点 豆包文生图，公众号标题、正文、封面图自动生成草稿上传                 
 - 资料在项目内 workflows 文件夹中的 03_*** 文件夹，下载即可                                                                  
-- YouTube频道对应视频: https://youtu.be/Ig3Os7NjN54                                                                    
-- B站频道对应视频: https://www.bilibili.com/video/BV1aD2TBsEkZ/             
+- YouTube频道对应视频: https://youtu.be/Ig3Os7NjN54                                                                     
+- B站频道对应视频: https://www.bilibili.com/video/BV1PeCPBZENE/                                      
 
 
 ## 其他推荐
