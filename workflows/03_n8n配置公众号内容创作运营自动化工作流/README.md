@@ -14,11 +14,6 @@ https://developers.weixin.qq.com/doc/subscription/api/
 
 # 1、在微信服务号平台获取凭证
 
-可参考的两篇文章：
-https://mp.weixin.qq.com/s?__biz=MzI0NzQxNDA2Ng==&mid=2247486683&idx=1&sn=05e6d11251dc62614fdce62476f7642b&poc_token=HIJkDWmjxH9gdhsfCi6jL8Yfc9Jb0h0l7YkCNNGH
-https://mp.weixin.qq.com/s?__biz=Mzg5NzczNjE0NQ==&mid=2247486272&idx=1&sn=88f8e4d6204b7566f58ce01608ba3f09&poc_token=HH9kDWmjXrpEB38Ic-_jO_FlS9tmickGHbGe7Ed3
-
-
 ## 1.1 注册微信公众号
 
 * 访问微信公众平台进行注册 https://mp.weixin.qq.com/                      
