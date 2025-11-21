@@ -33,6 +33,11 @@
 - YouTube频道对应视频: https://youtu.be/Ig3Os7NjN54                                                                     
 - B站频道对应视频: https://www.bilibili.com/video/BV1PeCPBZENE/                                      
 
+5. 05_【工作流】n8n配置外部事件触发保姆级配置指南：7x24小时无人值守工单AI分诊自动化工作流 Webhook、AI Agent、Send Email、飞书等节点                             
+- 资料在项目内 workflows 文件夹中的 04_*** 文件夹，下载即可                                                                   
+- YouTube频道对应视频: https://youtu.be/Fmu6NarOArM                                                                                         
+- B站频道对应视频: https://www.bilibili.com/video/BV1PeCPBZENE/      
+
 
 ## 其他推荐
 
