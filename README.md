@@ -41,7 +41,7 @@
 6. 06_【n8n工作流】从文案到成片只需5分钟？AI全自动短视频生产线，解放90%重复劳动｜文案→素材→成片一条龙【附保姆级指南】                                 
 - 资料在项目内 workflows 文件夹中的 05_*** 文件夹，下载即可                                                                   
 - YouTube频道对应视频: https://youtu.be/h6DoC92uyYI                              
-- B站频道对应视频: https://www.bilibili.com/video/BV1DHU5B5EMv/                
+- B站频道对应视频: https://www.bilibili.com/video/BV1LCSNBAEUs/                               
 
 
 ## 其他推荐
