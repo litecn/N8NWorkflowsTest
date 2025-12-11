@@ -17,7 +17,7 @@
 - 资料在 resource 文件夹中的 01_*** 文件夹，下载即可                   
 - YouTube频道对应视频: https://youtu.be/Ldf15CPDY9Y                                
 - B站频道对应视频: https://www.bilibili.com/video/BV1Aq1NBYELp/
-  
+
 n8n V2.x升级实测：一份可复用的‘平滑迁移’检查清单 | 适用于原地升级与全新部署，确保过程平稳               
 - 资料在 resource 文件夹中的 02_*** 文件夹，下载即可                     
 - YouTube频道对应视频: https://youtu.be/fhI6lBoLOBw                                                 
