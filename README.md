@@ -21,7 +21,12 @@
   n8n V2.x升级实测：一份可复用的‘平滑迁移’检查清单 | 适用于原地升级与全新部署，确保过程平稳               
 - 资料在 resource 文件夹中的 02_*** 文件夹，下载即可                     
 - YouTube频道对应视频: https://youtu.be/fhI6lBoLOBw                                                 
-- B站频道对应视频: https://www.bilibili.com/video/BV1ErmLB4EAW/                                            
+- B站频道对应视频: https://www.bilibili.com/video/BV1ErmLB4EAW/
+
+  我切断了向Zapier的“数据进贡” | 本地n8n全球直连方案，打造生产级私人自动化中枢，是数字自治的唯一门票。让本地部署的n8n服务，在外网通过域名安全访问          
+- 资料在 resource 文件夹中的 03_*** 文件夹，下载即可                     
+- YouTube频道对应视频: https://youtu.be/F6LcNx7TpYU                                                                   
+- B站频道对应视频: https://www.bilibili.com/video/BV1e5mQBDEbf/          
 
 2. 02_【工作流】搭建n8n入门第一个工作流：微信公众号文章自动采集和AI摘要生成 常用技巧(标签、节点设置、表达式等)、RSS节点、Code节点、AIAgent节点、Loop节点等设置 解决本地文件读写难题          
 - 资料在项目内 workflows 文件夹中的 01_*** 文件夹，下载即可                                                  
