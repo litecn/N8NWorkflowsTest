@@ -71,8 +71,8 @@
 
 2. 【n8n实战经验小Tip】飞书多维表格使用配置｜最小配置颗粒度拆解｜开源可抄作业               
 - 资料在项目内 tips 文件夹中的 02_*** 文件夹，下载即可                                                      
-- YouTube频道对应视频: https://youtu.be/lJPWsznqYHI                                                                 
-- B站频道对应视频:https://www.bilibili.com/video/BV1Q7qQBpEF8/              
+- YouTube频道对应视频: https://youtu.be/lJPWsznqYHI                                                                  
+- B站频道对应视频:https://www.bilibili.com/video/BV1vPqSBWE3X/                            
   
 
 ## 其他推荐
