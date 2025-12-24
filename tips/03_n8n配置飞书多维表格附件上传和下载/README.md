@@ -11,9 +11,7 @@ B站频道对应视频:https://www.bilibili.com/video/BV1Q7qQBpEF8/
 分片上传附件到飞书多维表格:https://open.feishu.cn/document/server-docs/docs/drive-v1/media/multipart-upload-media/upload_prepare                                            
 多维表格更新记录接口:https://open.feishu.cn/document/server-docs/docs/bitable-v1/app-table-record/update?appId=cli_a8759c6a213d500e               
 
-本期视频演示使用的附件素材，大家可自行在网盘下载:                  
-我用夸克网盘给你分享了「附件素材_n8n配置飞书多维表格附件上传和下载」，点击链接或复制整段内容，打开「夸克APP」即可获取。                 
-/~cc7b39iafl~:/                
+本期视频演示使用的附件素材，大家可自行在网盘下载:                             
 链接：https://pan.quark.cn/s/6bd7912ac1fa?pwd=qMvU              
 提取码：qMvU                 
 
