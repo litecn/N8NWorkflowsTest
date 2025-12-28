@@ -77,7 +77,12 @@
 3. 【n8n实战经验小Tip】飞书多维表格附件上传和下载｜最小配置颗粒度拆解｜开源可抄作业                            
 - 资料在项目内 tips 文件夹中的 03_*** 文件夹，下载即可                                                         
 - YouTube频道对应视频: https://youtu.be/any_jD3hTZM                                                                                      
-- B站频道对应视频:https://www.bilibili.com/video/BV1tXBMBYEpj/                                     
+- B站频道对应视频:https://www.bilibili.com/video/BV1tXBMBYEpj/
+
+4. 【n8n实战经验小Tip】飞书消息服务配置 支持文本、富文本、图片、消息卡片、音频、视频、文件等消息类型｜最小配置颗粒度拆解｜开源可抄作业       
+- 资料在项目内 tips 文件夹中的 04_*** 文件夹，下载即可                                                         
+- YouTube频道对应视频: https://youtu.be/QYm8io-0UIQ                                                                   
+- B站频道对应视频:https://www.bilibili.com/video/BV1tXBMBYEpj/    
 
 ## 其他推荐
 
