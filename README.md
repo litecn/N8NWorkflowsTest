@@ -61,7 +61,15 @@
 - B站频道对应视频: https://www.bilibili.com/video/BV1krmkB3ExN/               
 详细拆解演示视频:          
 - YouTube频道对应视频: https://youtu.be/9m__FWCkNqw                                                            
-- B站频道对应视频: https://www.bilibili.com/video/BV1dCq4BbECZ/           
+- B站频道对应视频: https://www.bilibili.com/video/BV1dCq4BbECZ/
+
+8. 我用n8n+AI+飞书打造了一款AI选题神器！效率提升99.9%，告别主观决策。揭秘AI驱动的AI智能选题评审与决策支持平台搭建全过程
+- 说明文档在项目内 workflows 文件夹中的 07_*** 文件夹，工作流配置文件等资料在视频置顶评论中提供了下载链接                                                 
+- YouTube频道对应视频: https://youtu.be/0J_KXNXKLm0                                                             
+- B站频道对应视频: https://www.bilibili.com/video/BV1uMkHB1Ego/                                   
+详细拆解演示视频:          
+- YouTube频道对应视频:                                                                
+- B站频道对应视频:          
 
 ## n8n实战经验小Tips            
 1. 【n8n实战经验小Tip】飞书服务使用前配置｜最小配置颗粒度拆解｜开源可抄作业                       
